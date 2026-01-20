@@ -73,6 +73,9 @@ body {
   padding: 140px 0 120px;
   text-align: center;
   overflow: hidden;
+  background: url('./../assets/hero-bg.png');
+  background-position: center;
+  background-size: cover;
   
 }
 
@@ -278,6 +281,8 @@ footer {
   background: var(--darker);
   border-top: 1px solid rgba(139,92,246,0.2);
   text-align: center;
+  background: url('./../assets/footer-bg.png');
+  background-position: center;
 }
 
 .footer-logo {
